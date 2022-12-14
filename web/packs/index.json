@@ -1,7 +1,11 @@
 {
   "packs": [
     "wswmstickers2.json",
-    "KurumiGirl2xAgain_by_favorite_stickers_bot.json"
+    "KurumiGirl2xAgain_by_favorite_stickers_bot.json",
+    "RelifeLINE.json",
+    "chaotianjiang.json",
+    "FifthRepublic.json",
+    "serenazusa_by_luxiaoxun_bot.json"
   ],
   "homeserver_url": "https://matrix.xylonx.xyz"
 }
